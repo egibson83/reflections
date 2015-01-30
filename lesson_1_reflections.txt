@@ -12,3 +12,5 @@ How can you use the commands git log and git diff to view the history of files?
 log produces a list of all of the commits through the history of the repository.  diff produces a oomparison file showing revs.
 How might using version control make you more confident to make changes that could break something?
 You can always go back.
+Now that you have your workspace set up, what do you want to try using Git for?
+I have no freakin' clue.  But I bet I will find out...
