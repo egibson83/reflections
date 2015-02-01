@@ -8,3 +8,5 @@ What is the benefit of having a copy of the last known state of the remote store
 This makes it possible to diff any work you have done locally with the staus of the remote before and after any changes are made..i think.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 You could just email files back and forth.  That would be alright for recipes and such, but would take much longer for complicated files.
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Per our previous lesson, making changes in a separate branch gives the ability to make changes that may not eventually be merged into the master.  This could be an experimental feature or something.
